@@ -1,5 +1,5 @@
 body {
-    background-image: url('background1.jpg'); /* Image is in the root directory of your repository */
+    background-image: url('background1.jpg'); /* Image is in the root directory the repository */
     background-size: cover;
     color: white;
     text-align: center;
