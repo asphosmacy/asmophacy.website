@@ -1,5 +1,7 @@
 body {
-    background-color: blue;
+    background-image: url('background.jpg'); /* Image is in the root directory of your repository */
+    background-size: cover;
+    color: white;
     text-align: center;
     position: relative;
     height: 100vh;
